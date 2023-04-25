@@ -40,7 +40,6 @@ const Footer = () => (
 
     <div className="gpt3__footer-copyright">
       <p>@2023 GPT-5. All rights reserved.</p>
-      <p href="https://arnab-4.github.io/Arnab-s-portfolio/">Created By Arnab Manna</p>
     </div>
   </div>
 );
